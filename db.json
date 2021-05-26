@@ -1,5 +1,4 @@
 {
- "Ad_Ids" : {
        "Admob_Ids": [
                      {
                        "app_id": "ca-app-pub-3940256099942544~3347511713",
@@ -19,5 +18,4 @@
                           "fb_interstitial_id" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
                         }
                      ] 
-    }
 }
